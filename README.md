@@ -35,9 +35,7 @@
 | <img src="screenshots/selection.png" width="300"/> | <img src="screenshots/action.png" width="300"/> |
 
 ## 🎥 Demo
-
-> _[Insert gameplay video link here, e.g., YouTube or local GIF]_  
-> _You can add a short GIF or video showing character selection, movement, and an attack._
+> https://www.youtube.com/watch?v=ZGTKnBDXM4w
 
 ## 🚀 Getting Started
 
@@ -50,22 +48,9 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/marvel-ultimate-war.git
+    git clone https://github.com/oaly2/Marvel-Ultimate-War.git
     cd marvel-ultimate-war
     ```
 2. Open in your favorite IDE and run `Main.java`
 
 > 💡 If you’re using an IDE, make sure all `.java` files are in the correct package/folder structure.
-
-## 👨‍💻 Code Structure
-
-```bash
-marvel-ultimate-war/
-│
-├── src/
-│   ├── game/           # Core game logic
-│   ├── ui/             # GUI components
-│   ├── characters/     # Marvel character classes
-│   └── Main.java       # Main entry point
-├── screenshots/        # Screenshots used in README
-└── README.md
