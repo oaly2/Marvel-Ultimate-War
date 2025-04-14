@@ -1,4 +1,4 @@
-# Marvel Ultimate War – Java-Based 2-Player Turn-Based Strategy Game
+# Marvel Ultimate War – 2-Player Turn-Based Strategy Game
 Developed a Marvel-themed, turn-based board fighting game using Java and Swing for the GUI. The game is played on a dynamic 5x5 tile-based board, where players strategically move and battle using iconic Marvel superheroes, each with unique stats and abilities.
 
 Key features include:
