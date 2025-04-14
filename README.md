@@ -1,8 +1,17 @@
-# Marvel-Ultimate-War
-Marvel Ultimate War is Marvel themed turn-based 2-player board fighting game. The game is implemented using Java programming language and the UI was implemented using Java.swing, which provides a powerful and flexible toolset for creating graphical user interfaces (GUIs).
+# Marvel Ultimate War – Java-Based 2-Player Turn-Based Strategy Game
+Developed a Marvel-themed, turn-based board fighting game using Java and Swing for the GUI. The game is played on a dynamic 5x5 tile-based board, where players strategically move and battle using iconic Marvel superheroes, each with unique stats and abilities.
 
-The objective of the game is to defeat your opponent by attacking and defending with your superhero characters. Each character has their unique set of powers and abilities, which can be used strategically to win battles. The game is played on a "5x5" board with a set of tiles that represent the playing field, and players can move their characters on these tiles to attack or defend.
+Key features include:
 
-The game features an intuitive interface that allows players to select their characters, view their stats, and plan their moves.
+Custom-built game engine supporting turn-based logic, attack/defense mechanics, and tile-based movement
 
-Here's a video of the gameplay: https://youtu.be/ZGTKnBDXM4w
+Intuitive GUI built with Java Swing, leveraging components like JFrame, JPanel, JButton, and custom event handling for interactive gameplay
+
+Applied OOP principles such as inheritance, polymorphism, and encapsulation to model characters, powers, and actions
+
+Used design patterns like the Strategy Pattern to implement varying superhero abilities
+
+Focused on modularity and reusability, allowing easy extension with new characters or abilities
+
+This project showcases my skills in game development, GUI design, and object-oriented software engineering using core Java.
+
